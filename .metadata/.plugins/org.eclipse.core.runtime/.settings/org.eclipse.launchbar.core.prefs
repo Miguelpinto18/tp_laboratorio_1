@@ -1,0 +1,12 @@
+LaunchTargetManager/configs/Clase\ de\ apoyo\ 1.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/TP_\ [1].exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/TP_[1].exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Clase de apoyo 1.exe,org.eclipse.launchbar.core.descriptorType.default\:Clase1-Laboratorio.exe,org.eclipse.launchbar.core.descriptorType.default\:ClaseProgramaci\u00F3n1.exe,org.eclipse.launchbar.core.descriptorType.default\:TP_[1].exe,org.eclipse.launchbar.core.descriptorType.default\:TP-1.exe,org.eclipse.launchbar.core.descriptorType.default\:TP_ [1].exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Clase\ de\ apoyo\ 1.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Clase\ de\ apoyo\ 1.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Clase1-Laboratorio.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Clase1-Laboratorio.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

@@ -1,0 +1,21 @@
+14:32:16 **** Incremental Build of configuration Debug for project TP_[1] ****
+Info: Internal Builder is used for build
+gcc -o TP_[1].exe "src\\TP_[1].o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: src\TP_[1].o: in function `main':
+C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:65: undefined reference to `eInt'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:66: undefined reference to `vIntMaIgual'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:84: undefined reference to `eFloat'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:85: undefined reference to `vFloatMaIgual'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:107: undefined reference to `opcionTres'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:111: undefined reference to `opcionTres'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:133: undefined reference to `opcionCuatroAerolineas'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:134: undefined reference to `opcionCuatroLatam'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:154: undefined reference to `opcionTres'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:155: undefined reference to `opcionCuatroAerolineas'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:157: undefined reference to `opcionTres'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:158: undefined reference to `opcionCuatroLatam'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: C:\Users\MIGUEL PINTO\eclipse-workspace\TP_[1]\Debug/../src/TP_[1].c:160: undefined reference to `restaD'
+collect2.exe: error: ld returned 1 exit status
+
+14:32:22 Build Failed. 14 errors, 0 warnings. (took 6s.5ms)
+
