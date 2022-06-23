@@ -1,0 +1,4 @@
+id,name,lastname,price,flycode,typePassenger,statusFlight
+3,Brade,00,20000.000000,MM0987B,FirstClass,En Horario
+2,Ulrike,00,25000.000000,IB0800A,FirstClass,Aterrizado
+1,Lou,00,10000.000000,BA2491A,FirstClass,Aterrizado
