@@ -540,7 +540,7 @@ int modificarTipoPasajero(Passenger* pasajeroModificar)
 	if(pasajeroModificar!=NULL)
 	{
 		devuelve=1;
-		UTN_getValidacionMaximoMinimo(pasajeroModificar->tipoPasajero,"Ingrese el nuevo tipo de pasajero:(1=FirstClass 2=ExecutiveClass 3=EconomyClass): ",
+		UTN_getValidacionMaximoMinimo(&(pasajeroModificar->id),"Ingrese el nuevo tipo de pasajero:(1=FirstClass 2=ExecutiveClass 3=EconomyClass): ",
 			"\nERROR, Reingrese un numero valido(1-3)\nIngrese el nuevo tipo de pasajero(1=FirstClass 2=ExecutiveClass 3=EconomyClass): ", 1, 3);
 		if(strcmp(pasajeroModificar->tipoPasajero, "FirstClass")==0)
 		{
